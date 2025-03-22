@@ -1,0 +1,31 @@
+.hading{
+    font-size: 100px;
+    line-height: 100px;
+}
+.pra{
+    font-size: 24px;
+    font-weight: 550px;
+    margin-bottom: 10px;
+}
+.main{
+    
+    max-width: 200px;
+        text-align: center;
+    
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+@media (max-width :768px) {
+    .hading{
+        margin-left: 100px;
+    }
+    .pra{
+        margin-left: 100px;
+        margin-bottom: 0%;
+        
+    }
+    
+}
