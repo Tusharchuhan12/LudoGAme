@@ -1,4 +1,4 @@
- import styles from "./start.module.css"
+ import styles from "./Start.module.css"
 
 function Start({ toggle }) {
   return (
